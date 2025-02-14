@@ -4,3 +4,4 @@ Version 1.0 (BETA)
 Made by LuvTime
 Youtube channel: www.youtube.com/@Lvvu125
 Github: https://github.com/Luvtime125
+Discord server: https://discord.com/invite/wawqSX73wg
